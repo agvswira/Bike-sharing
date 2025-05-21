@@ -1,4 +1,4 @@
-# Bike Sharing Dataset ✨
+# Bike Sharing Dataset 
 
 ## Setup Environment - Anaconda
 ```
